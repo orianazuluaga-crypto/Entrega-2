@@ -1,0 +1,1 @@
+En eta carpeta se subió el consolidado de los trabajos realizados durante el semestres completos, también se subió la evidencia de las pantallas del uso del git hub , aunque es redundante toda vez que se está realizando la entrega por este medio.
